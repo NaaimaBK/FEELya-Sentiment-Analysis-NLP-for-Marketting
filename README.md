@@ -99,7 +99,6 @@ docker-compose up -d
 
 MIT License
 
-print("""
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║  ███████╗███████╗███████╗██╗  ██╗   ██╗ █████╗              ║
@@ -145,4 +144,3 @@ print("""
    - Tests unitaires et d'intégration
    - Déploiement production
 
-""")
